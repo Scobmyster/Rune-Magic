@@ -1,0 +1,13 @@
+{
+      "parent": "block/cube_all",
+      "textures":{
+          "particle": "rm:blocks/natural_table_side",
+          "north": "rm:blocks/natural_table_side",
+          "south": "rm:blocks/natural_table_side",
+          "west": "rm:blocks/natural_table_side",
+          "east": "rm:blocks/natural_table_side",
+          "up": "rm:blocks/natural_table_top",
+          "down": "rm:blocks/natural_table_bottom"
+      }
+
+}

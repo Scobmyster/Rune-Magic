@@ -1,0 +1,15 @@
+tile.light_box.name=Light Box
+tile.natural_table.name=Natural Table
+
+
+item.light_core.name=Light Core
+item.natures_gift.name=Natures' Gift
+item.nature_core.name=Nature Core
+item.nature_staff.name=Nature Staff
+
+container.natural_table=Natural Table
+
+spell.LightningSpell=Spell chosen: Lightning Spell
+spell.HealSpell=Spell chosen: Heal Spell
+
+runemagicmisc.creative=Creative Only

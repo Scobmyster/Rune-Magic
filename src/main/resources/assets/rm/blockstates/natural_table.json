@@ -1,0 +1,7 @@
+{
+    "variants":{
+        "normal":{
+          "model": "rm:natural_table"
+        }
+    }
+}
